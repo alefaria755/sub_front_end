@@ -4,7 +4,7 @@ import styled from 'styled-components'
 
 export const LoginStyle = styled.section `
 
-.conteudo{
+.login{
     color: green;
 }
     

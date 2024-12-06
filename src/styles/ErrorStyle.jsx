@@ -2,7 +2,7 @@ import styled from 'styled-components'
 
 export const ErrorStyle = styled.section `
 
-.icones{
+.erro{
     color: green;
 }
     

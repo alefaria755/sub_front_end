@@ -5,7 +5,7 @@ import React from 'react'
 const Error = () => {
   return (
     <ErrorStyle>
-       <div className='erro'>ERRO</div>
+       <div className='erro'>404- Page not Found</div>
     </ErrorStyle>
    
   )

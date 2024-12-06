@@ -14,12 +14,12 @@ const router = createBrowserRouter([
   {
     //Elemento Pai
     path:'/',element:<App/>,
+    errorElement:<Error/>,
 
     //Elemento Filho
     children:[
       {path:'/', element:<Home/>},
       {path:'/solucao', element:<Solucao/>},
-      {path:'/Error', element:<Error/>},
       {path:'/Login', element:<Login/>},
       {path:'/Cadastrar', element:<Cadastrar/>},
       {path:'/Sobre', element:<Sobre/>},
