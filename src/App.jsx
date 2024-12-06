@@ -1,4 +1,4 @@
-
+import Header from "./pages/Header"
 
 function App() {
 
@@ -6,7 +6,7 @@ function App() {
   return (
     <>
 
-
+      <Header/>
 
     </>
   )
