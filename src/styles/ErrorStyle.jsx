@@ -1,9 +1,9 @@
 import styled from 'styled-components'
 
-export const ProdutoStyle = styled.section `
+export const ErrorStyle = styled.section `
 
-.conteudo{
+.icones{
     color: green;
 }
-
+    
 `

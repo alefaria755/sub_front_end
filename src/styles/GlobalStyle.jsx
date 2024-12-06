@@ -9,6 +9,11 @@ const GlobalStyle = createGlobalStyle `
     list-style:none;
 }
 
+
+a:visited {
+  color: red; 
+}
+
 `
 
 export default GlobalStyle
