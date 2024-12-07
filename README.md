@@ -6,14 +6,14 @@
 
 
 ## Instruções opcionais
-Caso precise, instale:
-npm install
-npm install styled-components
-npm install react-router-dom
-npm install react-icons
-npm install react-slick slick-carousel
-npm install crypto-js
-npm run dev
+# Caso precise, instale:
+- npm install
+- npm install styled-components
+- npm install react-router-dom
+- npm install react-icons
+- npm install react-slick slick-carousel
+- npm install crypto-js
+- npm run dev
 
 
 <h1>Descrição do Projeto 📝</h1>
